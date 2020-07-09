@@ -1,0 +1,102 @@
+h5{
+    font-size: 20px;
+}
+.navbar-brand img {
+    width: 200px;
+    margin-bottom: 30px; 
+}
+.container{
+    margin-bottom: 40px;
+}
+#top-pic{
+    width: 700px;
+}
+.baground-color{
+    background-color: #f0fff0;
+}
+.button{
+    background-color: #0bac61;
+    border: none;
+    border-radius: 20px;
+    font-size: 16px;
+    color: honeydew;
+}
+.card img {
+    width: 100px;
+    margin: 10px auto;
+
+}
+.card{
+    text-align: center;
+    border: none;
+    margin-bottom: 40px;
+}
+
+#box-shadow{
+    box-shadow: 5px 5px 10px 5px #f3e2e2;
+    border-radius: 8px;
+}
+#card-color{
+    background-color: white;
+}
+
+
+#card-2 img {
+    width: 90%;
+}
+
+.card-footer{
+    border-top: none;
+    background-color: white;
+}
+.calender{
+    height: 24px!important;
+    width: 24px!important;
+}
+.people{
+    height: 24px!important;
+    width: 24px!important;
+}
+.calender-people-icon-title{
+    font-size: 17px;
+    font-weight: 600;
+}
+#man {
+    width: 90%;
+    height: 90%;
+}
+footer{
+    height: 700px;
+    width: 100%;
+    background-color: black;
+    margin-top: 50px;
+}
+.footer-color{
+    color: rgb(245, 243, 243);
+    padding: 40px 15px;
+}
+.one-third{
+    margin: 0px 0px;
+    text-align: justify;
+}
+.copyright{
+    text-align: center;
+}
+.area{
+    margin-left: 90px;
+}
+.article-man{
+    margin-top: 80px;
+    
+}
+.social-link{
+    margin-top: 20px;
+    color: rgb(245, 243, 243);
+    background-color: black;
+    cursor: pointer;
+    text-decoration: none;
+}
+a{
+    text-decoration: none!important;
+}
+
